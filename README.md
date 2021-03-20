@@ -9,7 +9,6 @@ this program declares PI  as a constant variable and initializes it as a double 
 The next program is the start of a game based on teaching children arithmetic. 
 
 The 3rd program shows you how to calculate the day of the week with and int data type, how to calculate the square root of a number, exponents,
-
 and provides some established code that you can build with.
 
 

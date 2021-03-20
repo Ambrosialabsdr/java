@@ -2,11 +2,9 @@
 This file showcases some fun Java programs I've developed to help me get better at java.
 
 
-The difference between two  
-
-Is a Java program that prompts the user to enter radius and height for two different sized cones. It outputs the difference on their size. 
+The first one is a Java program that prompts the user to enter radius and height for two different sized cones. It outputs the difference in  their size. 
 The formula for the volume of a cone is V = π * r2 * h/3.  
-it declares PI  as a constant variable and initializes it as a double data type with a value of 3.14159.
+this program declares PI  as a constant variable and initializes it as a double data type with a value of 3.14159.
 
 The next program is the start of a game based on teaching children arithmetic. 
 

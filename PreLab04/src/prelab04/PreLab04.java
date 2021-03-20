@@ -60,7 +60,7 @@ public class PreLab04 {
 
         System.out.println(("The maximum is ") + Math.max(int1, int2) + (" and the minumum is ") + Math.min(int1, int2));
 
-// Calculate the square root of two numbers
+// Calculate the square root of a number
         System.out.print("Please enter a number to be square-rooted:  ");
         double a = input.nextDouble();
         Math.sqrt(a);
